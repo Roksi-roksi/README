@@ -1,0 +1,13 @@
+/* Цвета для элементов списка */
+.brown { color: brown; }
+.gold { color: gold; }
+.blue { color: blue; }
+.red { color: red; }
+
+/* Размеры текста для классов */
+.xxsmall { font-size: 0.6em; }
+.xsmall { font-size: 0.8em; }
+.medium { font-size: 1em; }
+.large { font-size: 1.2em; }
+.xlarge { font-size: 1.4em; }
+.xxlarge { font-size: 1.6em; }
